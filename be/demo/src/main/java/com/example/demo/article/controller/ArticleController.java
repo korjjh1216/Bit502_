@@ -1,5 +1,8 @@
 package com.example.demo.article.controller;
 
-public interface ArticleController {
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class ArticleController {
 
 }
